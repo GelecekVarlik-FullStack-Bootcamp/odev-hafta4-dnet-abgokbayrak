@@ -1,0 +1,15 @@
+D:\KURS_CALISMALAR\GELECEK_VARLIK_NET_CORE\HOMEWORKS\BusinessManagementSystem\odev-hafta4-dnet-abgokbayrak\BMS\BMS.Interface\bin\Debug\net5.0\BMS.Interface.deps.json
+D:\KURS_CALISMALAR\GELECEK_VARLIK_NET_CORE\HOMEWORKS\BusinessManagementSystem\odev-hafta4-dnet-abgokbayrak\BMS\BMS.Interface\bin\Debug\net5.0\BMS.Interface.dll
+D:\KURS_CALISMALAR\GELECEK_VARLIK_NET_CORE\HOMEWORKS\BusinessManagementSystem\odev-hafta4-dnet-abgokbayrak\BMS\BMS.Interface\bin\Debug\net5.0\BMS.Interface.pdb
+D:\KURS_CALISMALAR\GELECEK_VARLIK_NET_CORE\HOMEWORKS\BusinessManagementSystem\odev-hafta4-dnet-abgokbayrak\BMS\BMS.Interface\bin\Debug\net5.0\BMS.Entity.dll
+D:\KURS_CALISMALAR\GELECEK_VARLIK_NET_CORE\HOMEWORKS\BusinessManagementSystem\odev-hafta4-dnet-abgokbayrak\BMS\BMS.Interface\bin\Debug\net5.0\BMS.Entity.pdb
+D:\KURS_CALISMALAR\GELECEK_VARLIK_NET_CORE\HOMEWORKS\BusinessManagementSystem\odev-hafta4-dnet-abgokbayrak\BMS\BMS.Interface\obj\Debug\net5.0\BMS.Interface.csproj.AssemblyReference.cache
+D:\KURS_CALISMALAR\GELECEK_VARLIK_NET_CORE\HOMEWORKS\BusinessManagementSystem\odev-hafta4-dnet-abgokbayrak\BMS\BMS.Interface\obj\Debug\net5.0\BMS.Interface.GeneratedMSBuildEditorConfig.editorconfig
+D:\KURS_CALISMALAR\GELECEK_VARLIK_NET_CORE\HOMEWORKS\BusinessManagementSystem\odev-hafta4-dnet-abgokbayrak\BMS\BMS.Interface\obj\Debug\net5.0\BMS.Interface.AssemblyInfoInputs.cache
+D:\KURS_CALISMALAR\GELECEK_VARLIK_NET_CORE\HOMEWORKS\BusinessManagementSystem\odev-hafta4-dnet-abgokbayrak\BMS\BMS.Interface\obj\Debug\net5.0\BMS.Interface.AssemblyInfo.cs
+D:\KURS_CALISMALAR\GELECEK_VARLIK_NET_CORE\HOMEWORKS\BusinessManagementSystem\odev-hafta4-dnet-abgokbayrak\BMS\BMS.Interface\obj\Debug\net5.0\BMS.Interface.csproj.CoreCompileInputs.cache
+D:\KURS_CALISMALAR\GELECEK_VARLIK_NET_CORE\HOMEWORKS\BusinessManagementSystem\odev-hafta4-dnet-abgokbayrak\BMS\BMS.Interface\obj\Debug\net5.0\BMS.Interface.csproj.CopyComplete
+D:\KURS_CALISMALAR\GELECEK_VARLIK_NET_CORE\HOMEWORKS\BusinessManagementSystem\odev-hafta4-dnet-abgokbayrak\BMS\BMS.Interface\obj\Debug\net5.0\BMS.Interface.dll
+D:\KURS_CALISMALAR\GELECEK_VARLIK_NET_CORE\HOMEWORKS\BusinessManagementSystem\odev-hafta4-dnet-abgokbayrak\BMS\BMS.Interface\obj\Debug\net5.0\refint\BMS.Interface.dll
+D:\KURS_CALISMALAR\GELECEK_VARLIK_NET_CORE\HOMEWORKS\BusinessManagementSystem\odev-hafta4-dnet-abgokbayrak\BMS\BMS.Interface\obj\Debug\net5.0\BMS.Interface.pdb
+D:\KURS_CALISMALAR\GELECEK_VARLIK_NET_CORE\HOMEWORKS\BusinessManagementSystem\odev-hafta4-dnet-abgokbayrak\BMS\BMS.Interface\obj\Debug\net5.0\ref\BMS.Interface.dll

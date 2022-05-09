@@ -1,0 +1,15 @@
+D:\KURS_CALISMALAR\GELECEK_VARLIK_NET_CORE\HOMEWORKS\BusinessManagementSystem\odev-hafta4-dnet-abgokbayrak\BMS\BMS.Dal\bin\Debug\net5.0\BMS.Dal.deps.json
+D:\KURS_CALISMALAR\GELECEK_VARLIK_NET_CORE\HOMEWORKS\BusinessManagementSystem\odev-hafta4-dnet-abgokbayrak\BMS\BMS.Dal\bin\Debug\net5.0\BMS.Dal.dll
+D:\KURS_CALISMALAR\GELECEK_VARLIK_NET_CORE\HOMEWORKS\BusinessManagementSystem\odev-hafta4-dnet-abgokbayrak\BMS\BMS.Dal\bin\Debug\net5.0\BMS.Dal.pdb
+D:\KURS_CALISMALAR\GELECEK_VARLIK_NET_CORE\HOMEWORKS\BusinessManagementSystem\odev-hafta4-dnet-abgokbayrak\BMS\BMS.Dal\bin\Debug\net5.0\BMS.Entity.dll
+D:\KURS_CALISMALAR\GELECEK_VARLIK_NET_CORE\HOMEWORKS\BusinessManagementSystem\odev-hafta4-dnet-abgokbayrak\BMS\BMS.Dal\bin\Debug\net5.0\BMS.Entity.pdb
+D:\KURS_CALISMALAR\GELECEK_VARLIK_NET_CORE\HOMEWORKS\BusinessManagementSystem\odev-hafta4-dnet-abgokbayrak\BMS\BMS.Dal\obj\Debug\net5.0\BMS.Dal.csproj.AssemblyReference.cache
+D:\KURS_CALISMALAR\GELECEK_VARLIK_NET_CORE\HOMEWORKS\BusinessManagementSystem\odev-hafta4-dnet-abgokbayrak\BMS\BMS.Dal\obj\Debug\net5.0\BMS.Dal.GeneratedMSBuildEditorConfig.editorconfig
+D:\KURS_CALISMALAR\GELECEK_VARLIK_NET_CORE\HOMEWORKS\BusinessManagementSystem\odev-hafta4-dnet-abgokbayrak\BMS\BMS.Dal\obj\Debug\net5.0\BMS.Dal.AssemblyInfoInputs.cache
+D:\KURS_CALISMALAR\GELECEK_VARLIK_NET_CORE\HOMEWORKS\BusinessManagementSystem\odev-hafta4-dnet-abgokbayrak\BMS\BMS.Dal\obj\Debug\net5.0\BMS.Dal.AssemblyInfo.cs
+D:\KURS_CALISMALAR\GELECEK_VARLIK_NET_CORE\HOMEWORKS\BusinessManagementSystem\odev-hafta4-dnet-abgokbayrak\BMS\BMS.Dal\obj\Debug\net5.0\BMS.Dal.csproj.CoreCompileInputs.cache
+D:\KURS_CALISMALAR\GELECEK_VARLIK_NET_CORE\HOMEWORKS\BusinessManagementSystem\odev-hafta4-dnet-abgokbayrak\BMS\BMS.Dal\obj\Debug\net5.0\BMS.Dal.csproj.CopyComplete
+D:\KURS_CALISMALAR\GELECEK_VARLIK_NET_CORE\HOMEWORKS\BusinessManagementSystem\odev-hafta4-dnet-abgokbayrak\BMS\BMS.Dal\obj\Debug\net5.0\BMS.Dal.dll
+D:\KURS_CALISMALAR\GELECEK_VARLIK_NET_CORE\HOMEWORKS\BusinessManagementSystem\odev-hafta4-dnet-abgokbayrak\BMS\BMS.Dal\obj\Debug\net5.0\refint\BMS.Dal.dll
+D:\KURS_CALISMALAR\GELECEK_VARLIK_NET_CORE\HOMEWORKS\BusinessManagementSystem\odev-hafta4-dnet-abgokbayrak\BMS\BMS.Dal\obj\Debug\net5.0\BMS.Dal.pdb
+D:\KURS_CALISMALAR\GELECEK_VARLIK_NET_CORE\HOMEWORKS\BusinessManagementSystem\odev-hafta4-dnet-abgokbayrak\BMS\BMS.Dal\obj\Debug\net5.0\ref\BMS.Dal.dll

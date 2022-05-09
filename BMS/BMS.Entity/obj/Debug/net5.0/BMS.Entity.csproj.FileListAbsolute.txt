@@ -1,0 +1,15 @@
+D:\KURS_CALISMALAR\GELECEK_VARLIK_NET_CORE\HOMEWORKS\BusinessManagementSystem\odev-hafta4-dnet-abgokbayrak\BMS\BMS.Entity\bin\Debug\net5.0\BMS.Entity.deps.json
+D:\KURS_CALISMALAR\GELECEK_VARLIK_NET_CORE\HOMEWORKS\BusinessManagementSystem\odev-hafta4-dnet-abgokbayrak\BMS\BMS.Entity\bin\Debug\net5.0\BMS.Entity.runtimeconfig.json
+D:\KURS_CALISMALAR\GELECEK_VARLIK_NET_CORE\HOMEWORKS\BusinessManagementSystem\odev-hafta4-dnet-abgokbayrak\BMS\BMS.Entity\bin\Debug\net5.0\BMS.Entity.runtimeconfig.dev.json
+D:\KURS_CALISMALAR\GELECEK_VARLIK_NET_CORE\HOMEWORKS\BusinessManagementSystem\odev-hafta4-dnet-abgokbayrak\BMS\BMS.Entity\bin\Debug\net5.0\BMS.Entity.dll
+D:\KURS_CALISMALAR\GELECEK_VARLIK_NET_CORE\HOMEWORKS\BusinessManagementSystem\odev-hafta4-dnet-abgokbayrak\BMS\BMS.Entity\bin\Debug\net5.0\BMS.Entity.pdb
+D:\KURS_CALISMALAR\GELECEK_VARLIK_NET_CORE\HOMEWORKS\BusinessManagementSystem\odev-hafta4-dnet-abgokbayrak\BMS\BMS.Entity\obj\Debug\net5.0\BMS.Entity.csproj.AssemblyReference.cache
+D:\KURS_CALISMALAR\GELECEK_VARLIK_NET_CORE\HOMEWORKS\BusinessManagementSystem\odev-hafta4-dnet-abgokbayrak\BMS\BMS.Entity\obj\Debug\net5.0\BMS.Entity.GeneratedMSBuildEditorConfig.editorconfig
+D:\KURS_CALISMALAR\GELECEK_VARLIK_NET_CORE\HOMEWORKS\BusinessManagementSystem\odev-hafta4-dnet-abgokbayrak\BMS\BMS.Entity\obj\Debug\net5.0\BMS.Entity.AssemblyInfoInputs.cache
+D:\KURS_CALISMALAR\GELECEK_VARLIK_NET_CORE\HOMEWORKS\BusinessManagementSystem\odev-hafta4-dnet-abgokbayrak\BMS\BMS.Entity\obj\Debug\net5.0\BMS.Entity.AssemblyInfo.cs
+D:\KURS_CALISMALAR\GELECEK_VARLIK_NET_CORE\HOMEWORKS\BusinessManagementSystem\odev-hafta4-dnet-abgokbayrak\BMS\BMS.Entity\obj\Debug\net5.0\BMS.Entity.csproj.CoreCompileInputs.cache
+D:\KURS_CALISMALAR\GELECEK_VARLIK_NET_CORE\HOMEWORKS\BusinessManagementSystem\odev-hafta4-dnet-abgokbayrak\BMS\BMS.Entity\obj\Debug\net5.0\BMS.Entity.dll
+D:\KURS_CALISMALAR\GELECEK_VARLIK_NET_CORE\HOMEWORKS\BusinessManagementSystem\odev-hafta4-dnet-abgokbayrak\BMS\BMS.Entity\obj\Debug\net5.0\refint\BMS.Entity.dll
+D:\KURS_CALISMALAR\GELECEK_VARLIK_NET_CORE\HOMEWORKS\BusinessManagementSystem\odev-hafta4-dnet-abgokbayrak\BMS\BMS.Entity\obj\Debug\net5.0\BMS.Entity.pdb
+D:\KURS_CALISMALAR\GELECEK_VARLIK_NET_CORE\HOMEWORKS\BusinessManagementSystem\odev-hafta4-dnet-abgokbayrak\BMS\BMS.Entity\obj\Debug\net5.0\BMS.Entity.genruntimeconfig.cache
+D:\KURS_CALISMALAR\GELECEK_VARLIK_NET_CORE\HOMEWORKS\BusinessManagementSystem\odev-hafta4-dnet-abgokbayrak\BMS\BMS.Entity\obj\Debug\net5.0\ref\BMS.Entity.dll

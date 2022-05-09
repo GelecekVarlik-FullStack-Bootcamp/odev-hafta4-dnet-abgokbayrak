@@ -1,0 +1,296 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\KURS_CALISMALAR\\GELECEK_VARLIK_NET_CORE\\HOMEWORKS\\BusinessManagementSystem\\odev-hafta4-dnet-abgokbayrak\\BMS\\BMS.Bll\\BMS.Bll.csproj": {}
+  },
+  "projects": {
+    "D:\\KURS_CALISMALAR\\GELECEK_VARLIK_NET_CORE\\HOMEWORKS\\BusinessManagementSystem\\odev-hafta4-dnet-abgokbayrak\\BMS\\BMS.Bll\\BMS.Bll.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\KURS_CALISMALAR\\GELECEK_VARLIK_NET_CORE\\HOMEWORKS\\BusinessManagementSystem\\odev-hafta4-dnet-abgokbayrak\\BMS\\BMS.Bll\\BMS.Bll.csproj",
+        "projectName": "BMS.Bll",
+        "projectPath": "D:\\KURS_CALISMALAR\\GELECEK_VARLIK_NET_CORE\\HOMEWORKS\\BusinessManagementSystem\\odev-hafta4-dnet-abgokbayrak\\BMS\\BMS.Bll\\BMS.Bll.csproj",
+        "packagesPath": "C:\\Users\\AhmetBurak\\.nuget\\packages\\",
+        "outputPath": "D:\\KURS_CALISMALAR\\GELECEK_VARLIK_NET_CORE\\HOMEWORKS\\BusinessManagementSystem\\odev-hafta4-dnet-abgokbayrak\\BMS\\BMS.Bll\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\AhmetBurak\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Users\\AhmetBurak\\Downloads": {},
+          "https://www.nuget.org/api/v2/": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "D:\\KURS_CALISMALAR\\GELECEK_VARLIK_NET_CORE\\HOMEWORKS\\BusinessManagementSystem\\odev-hafta4-dnet-abgokbayrak\\BMS\\BMS.Dal\\BMS.Dal.csproj": {
+                "projectPath": "D:\\KURS_CALISMALAR\\GELECEK_VARLIK_NET_CORE\\HOMEWORKS\\BusinessManagementSystem\\odev-hafta4-dnet-abgokbayrak\\BMS\\BMS.Dal\\BMS.Dal.csproj"
+              },
+              "D:\\KURS_CALISMALAR\\GELECEK_VARLIK_NET_CORE\\HOMEWORKS\\BusinessManagementSystem\\odev-hafta4-dnet-abgokbayrak\\BMS\\BMS.Entity\\BMS.Entity.csproj": {
+                "projectPath": "D:\\KURS_CALISMALAR\\GELECEK_VARLIK_NET_CORE\\HOMEWORKS\\BusinessManagementSystem\\odev-hafta4-dnet-abgokbayrak\\BMS\\BMS.Entity\\BMS.Entity.csproj"
+              },
+              "D:\\KURS_CALISMALAR\\GELECEK_VARLIK_NET_CORE\\HOMEWORKS\\BusinessManagementSystem\\odev-hafta4-dnet-abgokbayrak\\BMS\\BMS.Interface\\BMS.Interface.csproj": {
+                "projectPath": "D:\\KURS_CALISMALAR\\GELECEK_VARLIK_NET_CORE\\HOMEWORKS\\BusinessManagementSystem\\odev-hafta4-dnet-abgokbayrak\\BMS\\BMS.Interface\\BMS.Interface.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[11.0.1, )"
+            },
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[5.0.16, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\KURS_CALISMALAR\\GELECEK_VARLIK_NET_CORE\\HOMEWORKS\\BusinessManagementSystem\\odev-hafta4-dnet-abgokbayrak\\BMS\\BMS.Dal\\BMS.Dal.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\KURS_CALISMALAR\\GELECEK_VARLIK_NET_CORE\\HOMEWORKS\\BusinessManagementSystem\\odev-hafta4-dnet-abgokbayrak\\BMS\\BMS.Dal\\BMS.Dal.csproj",
+        "projectName": "BMS.Dal",
+        "projectPath": "D:\\KURS_CALISMALAR\\GELECEK_VARLIK_NET_CORE\\HOMEWORKS\\BusinessManagementSystem\\odev-hafta4-dnet-abgokbayrak\\BMS\\BMS.Dal\\BMS.Dal.csproj",
+        "packagesPath": "C:\\Users\\AhmetBurak\\.nuget\\packages\\",
+        "outputPath": "D:\\KURS_CALISMALAR\\GELECEK_VARLIK_NET_CORE\\HOMEWORKS\\BusinessManagementSystem\\odev-hafta4-dnet-abgokbayrak\\BMS\\BMS.Dal\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\AhmetBurak\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Users\\AhmetBurak\\Downloads": {},
+          "https://www.nuget.org/api/v2/": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "D:\\KURS_CALISMALAR\\GELECEK_VARLIK_NET_CORE\\HOMEWORKS\\BusinessManagementSystem\\odev-hafta4-dnet-abgokbayrak\\BMS\\BMS.Entity\\BMS.Entity.csproj": {
+                "projectPath": "D:\\KURS_CALISMALAR\\GELECEK_VARLIK_NET_CORE\\HOMEWORKS\\BusinessManagementSystem\\odev-hafta4-dnet-abgokbayrak\\BMS\\BMS.Entity\\BMS.Entity.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.15, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\KURS_CALISMALAR\\GELECEK_VARLIK_NET_CORE\\HOMEWORKS\\BusinessManagementSystem\\odev-hafta4-dnet-abgokbayrak\\BMS\\BMS.Entity\\BMS.Entity.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\KURS_CALISMALAR\\GELECEK_VARLIK_NET_CORE\\HOMEWORKS\\BusinessManagementSystem\\odev-hafta4-dnet-abgokbayrak\\BMS\\BMS.Entity\\BMS.Entity.csproj",
+        "projectName": "BMS.Entity",
+        "projectPath": "D:\\KURS_CALISMALAR\\GELECEK_VARLIK_NET_CORE\\HOMEWORKS\\BusinessManagementSystem\\odev-hafta4-dnet-abgokbayrak\\BMS\\BMS.Entity\\BMS.Entity.csproj",
+        "packagesPath": "C:\\Users\\AhmetBurak\\.nuget\\packages\\",
+        "outputPath": "D:\\KURS_CALISMALAR\\GELECEK_VARLIK_NET_CORE\\HOMEWORKS\\BusinessManagementSystem\\odev-hafta4-dnet-abgokbayrak\\BMS\\BMS.Entity\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\AhmetBurak\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Users\\AhmetBurak\\Downloads": {},
+          "https://www.nuget.org/api/v2/": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[11.0.1, )"
+            },
+            "Microsoft.AspNetCore.Http.Abstractions": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.15, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[5.0.15, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "target": "Package",
+              "version": "[5.0.15, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\KURS_CALISMALAR\\GELECEK_VARLIK_NET_CORE\\HOMEWORKS\\BusinessManagementSystem\\odev-hafta4-dnet-abgokbayrak\\BMS\\BMS.Interface\\BMS.Interface.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\KURS_CALISMALAR\\GELECEK_VARLIK_NET_CORE\\HOMEWORKS\\BusinessManagementSystem\\odev-hafta4-dnet-abgokbayrak\\BMS\\BMS.Interface\\BMS.Interface.csproj",
+        "projectName": "BMS.Interface",
+        "projectPath": "D:\\KURS_CALISMALAR\\GELECEK_VARLIK_NET_CORE\\HOMEWORKS\\BusinessManagementSystem\\odev-hafta4-dnet-abgokbayrak\\BMS\\BMS.Interface\\BMS.Interface.csproj",
+        "packagesPath": "C:\\Users\\AhmetBurak\\.nuget\\packages\\",
+        "outputPath": "D:\\KURS_CALISMALAR\\GELECEK_VARLIK_NET_CORE\\HOMEWORKS\\BusinessManagementSystem\\odev-hafta4-dnet-abgokbayrak\\BMS\\BMS.Interface\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\AhmetBurak\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Users\\AhmetBurak\\Downloads": {},
+          "https://www.nuget.org/api/v2/": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "D:\\KURS_CALISMALAR\\GELECEK_VARLIK_NET_CORE\\HOMEWORKS\\BusinessManagementSystem\\odev-hafta4-dnet-abgokbayrak\\BMS\\BMS.Entity\\BMS.Entity.csproj": {
+                "projectPath": "D:\\KURS_CALISMALAR\\GELECEK_VARLIK_NET_CORE\\HOMEWORKS\\BusinessManagementSystem\\odev-hafta4-dnet-abgokbayrak\\BMS\\BMS.Entity\\BMS.Entity.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
